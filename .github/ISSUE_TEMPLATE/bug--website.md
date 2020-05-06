@@ -1,9 +1,9 @@
 ---
-name: Bug- Website
+name: Bug - Website
 about: Create a report to help us improve
 title: ''
 labels: bug
-assignees: ''
+assignees: 'jrbell19'
 
 ---
 
