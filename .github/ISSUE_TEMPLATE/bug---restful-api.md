@@ -3,7 +3,7 @@ name: Bug - RESTful API
 about: Create a report to help us improve the RESTful APIs
 title: ''
 labels: bug
-assignees: 'jrbell19'
+assignees: 'coledanielpower'
 
 ---
 
