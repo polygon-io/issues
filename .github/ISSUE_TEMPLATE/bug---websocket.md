@@ -3,7 +3,7 @@ name: Bug - WebSocket
 about: Create a report to help us improve the WebSocket stream
 title: ''
 labels: bug
-assignees: 'coledanielpower'
+assignees: 'AHangstefer'
 
 ---
 
